@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\3курс\labC#\lab1BinaryTree\lab1BinaryTree\obj\Debug\lab1BinaryTree.csprojAssemblyReference.cache
+C:\Users\User\Desktop\3курс\labC#\lab1BinaryTree\lab1BinaryTree\obj\Debug\lab1BinaryTree.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\3курс\labC#\lab1BinaryTree\lab1BinaryTree\bin\Debug\lab1BinaryTree.dll
+C:\Users\User\Desktop\3курс\labC#\lab1BinaryTree\lab1BinaryTree\bin\Debug\lab1BinaryTree.pdb
+C:\Users\User\Desktop\3курс\labC#\lab1BinaryTree\lab1BinaryTree\obj\Debug\lab1BinaryTree.dll
+C:\Users\User\Desktop\3курс\labC#\lab1BinaryTree\lab1BinaryTree\obj\Debug\lab1BinaryTree.pdb
+C:\Users\User\Desktop\3курс\labC#\ConsoleAppForLab1\lab1BinaryTree\lab1BinaryTree\bin\Debug\lab1BinaryTree.dll
+C:\Users\User\Desktop\3курс\labC#\ConsoleAppForLab1\lab1BinaryTree\lab1BinaryTree\bin\Debug\lab1BinaryTree.pdb
+C:\Users\User\Desktop\3курс\labC#\ConsoleAppForLab1\lab1BinaryTree\lab1BinaryTree\obj\Debug\lab1BinaryTree.csprojAssemblyReference.cache
+C:\Users\User\Desktop\3курс\labC#\ConsoleAppForLab1\lab1BinaryTree\lab1BinaryTree\obj\Debug\lab1BinaryTree.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\3курс\labC#\ConsoleAppForLab1\lab1BinaryTree\lab1BinaryTree\obj\Debug\lab1BinaryTree.dll
+C:\Users\User\Desktop\3курс\labC#\ConsoleAppForLab1\lab1BinaryTree\lab1BinaryTree\obj\Debug\lab1BinaryTree.pdb
