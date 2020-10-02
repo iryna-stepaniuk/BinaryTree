@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\3курс\labC#\ConsoleAppForLab1\ConsoleAppForLab1\bin\Debug\ConsoleAppForLab1.exe.config
+C:\Users\User\Desktop\3курс\labC#\ConsoleAppForLab1\ConsoleAppForLab1\bin\Debug\ConsoleAppForLab1.exe
+C:\Users\User\Desktop\3курс\labC#\ConsoleAppForLab1\ConsoleAppForLab1\bin\Debug\ConsoleAppForLab1.pdb
+C:\Users\User\Desktop\3курс\labC#\ConsoleAppForLab1\ConsoleAppForLab1\bin\Debug\lab1BinaryTree.dll
+C:\Users\User\Desktop\3курс\labC#\ConsoleAppForLab1\ConsoleAppForLab1\bin\Debug\lab1BinaryTree.pdb
+C:\Users\User\Desktop\3курс\labC#\ConsoleAppForLab1\ConsoleAppForLab1\obj\Debug\ConsoleAppForLab1.csprojAssemblyReference.cache
+C:\Users\User\Desktop\3курс\labC#\ConsoleAppForLab1\ConsoleAppForLab1\obj\Debug\ConsoleAppForLab1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\3курс\labC#\ConsoleAppForLab1\ConsoleAppForLab1\obj\Debug\ConsoleAppForLab1.csproj.CopyComplete
+C:\Users\User\Desktop\3курс\labC#\ConsoleAppForLab1\ConsoleAppForLab1\obj\Debug\ConsoleAppForLab1.exe
+C:\Users\User\Desktop\3курс\labC#\ConsoleAppForLab1\ConsoleAppForLab1\obj\Debug\ConsoleAppForLab1.pdb
