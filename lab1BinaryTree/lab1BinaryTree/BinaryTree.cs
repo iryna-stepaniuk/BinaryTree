@@ -81,6 +81,10 @@ namespace lab1BinaryTree
         {
             return this.GetEnumerator();
         }
+        public IEnumerator<TItem> GetEnumerator()
+        {
+            return InOrder(this.Node).GetEnumerator();
+        }
 
         public IEnumerable<TItem> PreOrder(TItem node)
         {
@@ -165,11 +169,6 @@ namespace lab1BinaryTree
         }
 
         public bool Remove(TItem item)
-        {
-            throw new NotImplementedException();
-        }
-
-        public IEnumerator<TItem> GetEnumerator()
         {
             throw new NotImplementedException();
         }

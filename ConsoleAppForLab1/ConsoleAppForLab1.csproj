@@ -33,8 +33,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="lab1BinaryTree">
-      <HintPath>..\..\lab1BinaryTree\lab1BinaryTree\obj\Debug\lab1BinaryTree.dll</HintPath>
+    <Reference Include="lab1BinaryTree, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\lab1BinaryTree\lab1BinaryTree\obj\Debug\lab1BinaryTree.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />

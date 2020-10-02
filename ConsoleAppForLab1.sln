@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.29306.81
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppForLab1", "ConsoleAppForLab1\ConsoleAppForLab1.csproj", "{40FAB724-7384-493F-A29B-6A6EC3CACC7F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab1BinaryTree", "..\lab1BinaryTree\lab1BinaryTree\lab1BinaryTree.csproj", "{A4A00A7F-AAFC-46A0-9999-42FBFFE134FA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab1BinaryTree", "lab1BinaryTree\lab1BinaryTree\lab1BinaryTree.csproj", "{A4A00A7F-AAFC-46A0-9999-42FBFFE134FA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
